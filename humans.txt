@@ -3,6 +3,8 @@
 
 # TEAM
 
+	Jason Talor
+
     <name> -- <role> -- <twitter>
 
 # THANKS
