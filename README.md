@@ -13,5 +13,7 @@ showing how to use Git and Github together
 
 Contribute
 
+Please fork this repo
+
 ### Copyright
 Gi.Training
