@@ -12,3 +12,6 @@ showing how to use Git and Github together
 ## How To Contribute
 
 Contribute
+
+### Copyright
+Gi.Training
